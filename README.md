@@ -1,4 +1,4 @@
-# System_of_diff_eqs
+# pbr2
 Designing a packed bed reactor using MATLAB
 The production of cumene involves the reaction between propylene and benzene with a side reaction producing unnecessary products. The temperature and
 the stoichiometric ratio of the reactants and important metrics to consider. The plot shows the how the reactant is consumed and how the product is forming
